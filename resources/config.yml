@@ -1,1 +1,13 @@
-
+# RulesUI Plugin Created in 7/20/2020 By MoreWheel
+# =======
+# Form setting
+title: "§6RulesUI"
+rules: "§c1.No Swear\n§c2.No Spam\n§eStatus: §cNot accepted"
+button1: "§aAgree & Continue"
+button2: "§cDeniced & Quit"
+already_accepted: "§c1.No Swear\n§c2.No Spam\n§eStatus: §aAccepted"
+button3: "Back"
+# =======
+# Messages Setting
+rules_accepted_msg: "§aYou accepted all the terms! enjoy"
+kick_msg: "§cYou need to accepted all the terms before playing the server!"
