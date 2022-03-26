@@ -8,7 +8,7 @@ commands:
   rules:
     permission: "rules.use.cmd"
     description: "Read the server rules"
-    
+    usage: "/rules"
  permissions:
    rules.use.cmd: 
      description: " Permission to use rulesui command "
