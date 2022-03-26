@@ -2,8 +2,14 @@ name: RulesUI
 main: MulkiAqi192\RulesUI\Main
 author: MulkiAqi192,Ldrago
 api: [4.0.0,4.2.3]
-version: 1.0
+version: 2.0
 
 commands:
   rules:
+    permission: "rules.use.cmd"
     description: "Read the server rules"
+    
+ permissions:
+   rules.use.cmd: 
+     description: " Permission to use rulesui command "
+     default: true 
